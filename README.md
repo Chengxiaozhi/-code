@@ -1,0 +1,2 @@
+# NiuKe-code
+1.
